@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DVT ElevatorChallenge", "DVT ElevatorChallenge\DVT ElevatorChallenge.csproj", "{D69580F5-3229-4EBA-A020-9EFE31C3EB3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevatorChallenge.UnitTests", "ElevatorChallenge.UnitTests\ElevatorChallenge.UnitTests.csproj", "{05DA78F7-8A32-4E97-A028-B16D038DA14B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D69580F5-3229-4EBA-A020-9EFE31C3EB3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D69580F5-3229-4EBA-A020-9EFE31C3EB3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D69580F5-3229-4EBA-A020-9EFE31C3EB3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D69580F5-3229-4EBA-A020-9EFE31C3EB3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05DA78F7-8A32-4E97-A028-B16D038DA14B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05DA78F7-8A32-4E97-A028-B16D038DA14B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05DA78F7-8A32-4E97-A028-B16D038DA14B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05DA78F7-8A32-4E97-A028-B16D038DA14B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAF2E3E3-4E98-4631-B846-1BC23F22ECE0}
+	EndGlobalSection
+EndGlobal
